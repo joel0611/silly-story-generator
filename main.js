@@ -12,7 +12,7 @@ function randomValueFromArray(array) {
 
 // RAW TEXT STRINGS
 const storyText = [
-  "It was :temp: fahrenheit outside, so :insertx: went for a walk. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. :bob: saw the whole thing, but was not surprised — :insertx: weighs :weight: pounds, and it was a hot day.",
+  "It was :temp: fahrenheit outside, so :insertx: went for a walk. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. :bob: saw the whole thing, but was not surprised — :insertx: weighs :weight:, and it was a hot day.",
 ];
 
 const insertX = ["Willy the Goblin", "Big Daddy", "Father Christmas"];
